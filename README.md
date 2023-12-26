@@ -27,7 +27,8 @@ Word Puzzle Game is designed to engage users with challenging yet approachable g
 
 ## Screenshots
 
-(Insert screenshots of the game interface here)
+![Splash]()
+![Home]()
 
 ## Installation
 
