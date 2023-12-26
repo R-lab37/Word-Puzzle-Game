@@ -27,8 +27,8 @@ Word Puzzle Game is designed to engage users with challenging yet approachable g
 
 ## Screenshots
 
-![Splash]()
-![Home]()
+![Splash](https://github.com/R-lab37/Word-Puzzle-Game/blob/main/Imags/splash.png)
+![Home](https://github.com/R-lab37/Word-Puzzle-Game/blob/main/Imags/home.png)
 
 ## Installation
 
