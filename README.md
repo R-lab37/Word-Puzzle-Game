@@ -1,7 +1,3 @@
-Creating a `README.md` file for your Flutter word puzzle game project can help users understand the purpose, features, and setup instructions for your application. Below is a sample `README.md` file that you can customize according to your project details:
-
----
-
 # Word Puzzle Game
 
 A captivating word puzzle game developed using Flutter.
